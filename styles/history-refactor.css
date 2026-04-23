@@ -1,0 +1,38 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-size: 16px;
+    box-sizing:border-box;
+    font-family: "Special Elite", system-ui;
+}
+
+.hero {
+display: flex;
+justify-content: center; /*alighned horizontal*/
+align-items: center; /*alighned vertical*/
+height: 100vh;
+background-image: url(../images/history-images/history-hero-bg.jpg);
+background-height: cover;
+background-position :center;
+filter:grayscale(100%);
+}
+
+h1{
+    color: white;
+    text-align: center;
+    font-family: "Bruno Ace SC", sans-serif;
+}
+
+main{
+    display: flex;
+    flex-wrap: wrap;
+}
+main section{
+    flex-grow: 1;
+    width:30%;
+    margin: 10px;
+    background-color: burlywood;
+    border: solid burlywood 2px;
+    border-radius: 5px;
+    padding: 5px;
+}
