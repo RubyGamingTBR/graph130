@@ -1,0 +1,14 @@
+body{
+    background-color: #285680;
+}
+
+.stew-content{
+  background-color: #cccccc;
+  width: 70px;
+padding: 10px;
+margin: auto;
+}
+
+h1,h2,h3 {
+    color: #805E28;
+}
