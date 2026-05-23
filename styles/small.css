@@ -1,0 +1,36 @@
+body{
+    font-family: "Roboto Slab", serif;
+    margin: 0px;
+    padding: 0px;
+    color: #344e5f;
+}
+header, section, footer, aside, article, figure{
+    display: block;
+}
+
+.container{
+    width: 100%;
+    background-color: white;
+    margin: 0 auto;
+}
+
+header{
+    box-sizing: border-box;
+    color: #44a5b5;
+    padding-top: .8em;
+    padding-left: 0;
+}
+
+.content{
+    box-sizing: border-box;
+    padding-left: .8em;
+    width: 100%;
+    float: none;
+}
+
+nav ul{
+    text-align: center;
+    list-style: none;
+    background-color: #44a5b5;
+    margin-bottom: 1em;
+}
