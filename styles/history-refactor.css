@@ -6,7 +6,7 @@ body{
     font-family: "Special Elite", system-ui;
 }
 
-.hero {
+.history-hero {
 display: flex;
 justify-content: center; /*alighned horizontal*/
 align-items: center; /*alighned vertical*/
