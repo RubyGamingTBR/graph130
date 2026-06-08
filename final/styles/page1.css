@@ -1,0 +1,23 @@
+ body{
+    margin: 30px;
+    align-items: center;
+ }
+ 
+ .column1{
+ min-width: 300px;
+    min-height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+margin-left: 50px;}
+
+.column1-2{}
+
+.column2{}
+.column2-3{}
+
+.column2-3 h3{
+    flex-wrap: wrap;
+
+}
+.column3{}
