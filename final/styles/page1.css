@@ -1,9 +1,11 @@
  body{
     margin: 30px;
     align-items: center;
+    padding-left: 10%;
  }
  
- .column1{
+ .pure-u-1{
+    
  min-width: 300px;
     min-height: 300px;
     display: flex;
@@ -11,13 +13,27 @@
     align-items: center;
 margin-left: 50px;}
 
-.column1-2{}
+.pure-u-1-2{
+    text-align: center;
+}
 
-.column2{}
-.column2-3{}
+.pure-u-2{
+    text-align: center;
+}
+.pure-u-2-3{
+    background-color: whitesmoke;
+    align-content: center;
+    text-align: center;
+}
 
-.column2-3 h3{
+.pure-u-2-3 h3{
     flex-wrap: wrap;
 
 }
-.column3{}
+.pure-u-3{
+    text-align: center;
+}
+
+footer{
+    text-align: right;
+}

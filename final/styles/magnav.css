@@ -22,7 +22,7 @@ body{
 }
 
 .hamish{
-    background-color: #333;
+    background-color: #00bd00;
     /* border-radius: 5px; */
     padding: 10px;
 }
@@ -52,7 +52,7 @@ body{
     transition: background-color 0.3s;
 }
 .hamish a:hover{
-    background-color: #ddd;
+    background-color: #BCE5BB;
     color:#333
 }
 .toggle-button{
