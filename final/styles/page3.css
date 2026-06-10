@@ -1,0 +1,16 @@
+header {
+    text-align: center;
+    border-bottom-style: dotted;
+    border-width: 2px;
+    border-color: yellowgreen;
+}
+body{
+    background-color: papayawhip;
+    padding-left: 5%;
+}
+article:first-of-type{
+    padding-left: 25px;
+}
+article{
+    padding: 30px;
+    margin: 5px;}
