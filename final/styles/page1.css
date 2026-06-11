@@ -22,8 +22,7 @@ margin-left: 50px;}
 }
 .pure-u-2-3{
     background-color: whitesmoke;
-    align-content: center;
-    text-align: center;
+    justify-content: left;
 }
 
 .pure-u-2-3 h3{
@@ -36,4 +35,13 @@ margin-left: 50px;}
 
 footer{
     text-align: right;
+}
+img{
+    flex-wrap: wrap;
+    width: fit-content;
+    height: auto;
+    text-align: center;
+}
+div{
+    margin: 10px;
 }

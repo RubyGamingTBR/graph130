@@ -14,3 +14,7 @@ article:first-of-type{
 article{
     padding: 30px;
     margin: 5px;}
+
+h5{
+    color: darkcyan;
+}
